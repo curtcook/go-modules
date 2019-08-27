@@ -1,2 +1,5 @@
 # go-modules
-extreme basic go module
+
+go build
+
+go run gomodules
